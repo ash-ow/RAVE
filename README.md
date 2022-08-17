@@ -1,2 +1,2 @@
-# RAVE
+# UpNext
 Spotify Enhancer
